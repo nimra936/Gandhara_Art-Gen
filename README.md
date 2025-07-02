@@ -44,6 +44,7 @@ A powerful tool for generating stunning Gandhara-style avatars and sculptures us
 ### 📦 Install Dependencies
 
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
 pip install diffusers transformers accelerate pillow ipywidgets
 
 ---
@@ -66,17 +67,9 @@ pip install diffusers transformers accelerate pillow ipywidgets
 
 ---
 
-## 🙏 Acknowledgements
-Model Source: RunwayML / Stable Diffusion v1.5
-
-Diffusers Library: Hugging Face
-
-Gandhara Art References: Museum archives, Taxila relics, and academic works on Greco-Buddhist art.
----
-
 ## 🔮 Future Improvements
-Prompt Expansion with AI: Integrate a lightweight language model to help users enhance their prompts for more detailed and accurate artwork.
+-Prompt Expansion with AI: Integrate a lightweight language model to help users enhance their prompts for more detailed and accurate artwork.
 
-Web-Based Interface: Build a simple Streamlit or Gradio web app for easier access beyond Colab notebooks.
+-Web-Based Interface: Build a simple Streamlit or Gradio web app for easier access beyond Colab notebooks.
 
-Style Fine-Tuning: Optionally fine-tune the model on authentic Gandharan art images for even more accurate cultural output.
+-Style Fine-Tuning: Optionally fine-tune the model on authentic Gandharan art images for even more accurate cultural output.
