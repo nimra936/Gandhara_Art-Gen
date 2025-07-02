@@ -19,6 +19,7 @@ A powerful tool for generating stunning Gandhara-style avatars and sculptures us
 - 🧑‍🎨 **Interactive Colab GUI**  
   An enhanced interface using `ipywidgets` for easy use in Google Colab with support for prompt history and auto display.
 
+![Gandhara_Art-Gen](Gui_preview.png)
 ---
 
 ## 🧠 Model Details
